@@ -168,7 +168,6 @@ return [
          * Otros Services Providers
          */
         Acacha\AdminLTETemplateLaravel\Providers\AdminLTETemplateServiceProvider::class,
-        Zizaco\Entrust\EntrustServiceProvider::class,
         Yajra\Datatables\DatatablesServiceProvider::class,
     ],
 

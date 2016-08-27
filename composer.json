@@ -8,7 +8,6 @@
         "php": ">=5.5.9",
         "laravel/framework": "5.2.*",
         "acacha/admin-lte-template-laravel": "2.*",
-        "zizaco/entrust": "5.2.x-dev",
         "yajra/laravel-datatables-oracle": "~6.0"
     },
     "require-dev": {

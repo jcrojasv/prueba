@@ -4,7 +4,7 @@ namespace App;
 
 use App\Http\Requests\Request;
 use Illuminate\Foundation\Auth\User as Authenticatable;
-use Zizaco\Entrust\Traits\EntrustUserTrait;
+
 
 class User extends Authenticatable
 {
