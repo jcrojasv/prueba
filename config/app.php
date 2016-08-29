@@ -169,6 +169,8 @@ return [
          */
         Acacha\AdminLTETemplateLaravel\Providers\AdminLTETemplateServiceProvider::class,
         Yajra\Datatables\DatatablesServiceProvider::class,
+        //Manejo de roles y permisos
+        Bican\Roles\RolesServiceProvider::class,
     ],
 
     /*
