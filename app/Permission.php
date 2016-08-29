@@ -8,8 +8,9 @@ class Permission extends Model
 {
     protected $fillable = [
         'name',
-        'display_name',
-        'description'
+        'slug',
+        'description',
+        'model',
     ];
  
    //establecemos las relacion de muchos a muchos con el modelo Role, ya que un permiso
